@@ -99,13 +99,6 @@ python manage.py runserver
 
 Open [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your browser.
 
-## Future Improvements
-
-- Add transaction categories to distinguish income from expenses.
-- Include transaction dates and filtering options.
-- Add monthly spending summaries and visual reports.
-- Introduce user authentication so each user can manage their own transactions.
-
 ## Purpose
 
 This project is a practical exercise in building a Django web application, working with database-backed records, handling form submissions, rendering dynamic templates, and connecting frontend components with backend logic.
